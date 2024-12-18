@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating insights since I discovered the beauty of turning data into stories.<br><br>📚 Currently learning advanced machine learning techniques, AWS tools, and how to make visualizations that pop 🎨<br><br>🎯 Goals: To become a business analyst and data scientist who bridges the gap between data and impactful decisions<br><br>🎲 Fun fact: I’ve completed 10 years of piano 🎹, love running 10Ks 🏃‍♀️, and can swim like a fish 🐠!</p>
+<p align="left">✨ Creating insights since I discovered the beauty of turning data into stories<br><br>📚 Currently learning advanced machine learning techniques, AWS tools, and how to make visualizations that pop 🎨<br><br>🎯 Goals: To become a business analyst and data scientist who bridges the gap between data and impactful decisions<br><br>🎲 Fun fact: I’ve completed 10 years of piano 🎹, love running 10Ks 🏃‍♀️, and can swim like a fish 🐠</p>
 
 ###
 
@@ -48,7 +48,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/julianahubacova/output/main/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/julianahubacova/output/snake.svg" alt="Snake Animation" />
 </div>
 
 ###
