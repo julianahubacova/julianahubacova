@@ -49,7 +49,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/julianahubacova/output/main/snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/julianahubacova/julianahubacova/blob/output/snake.svg" alt="Snake Animation" />
 </div>
 
 ###
