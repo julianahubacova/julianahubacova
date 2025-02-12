@@ -50,9 +50,9 @@
 ### 🐍 Contribution Snake
 
 
-<div align="center">
-  <img src="https://github.com/julianahubacova/julianahubacova/blob/output/snake.svg" alt="Snake Animation" />
-</div>
+# <div align="center">
+#  <img src="https://github.com/julianahubacova/julianahubacova/blob/output/snake.svg" alt="Snake Animation" />
+#</div>
 
 ###
 
