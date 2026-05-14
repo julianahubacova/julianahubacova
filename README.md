@@ -1,65 +1,76 @@
-<h1 align="left">Hey 👋 Welcome to my profile !</h1>
+<h1 align="left">Juliana Hubacova</h1>
 
-###
+<p align="left">
+  Data Engineer & Research Analyst at OMG Montreal · McGill MMA · Based in Montreal 🇨🇦
+</p>
 
-<p align="left">My name is Juliana, and I’m on a mission to find patterns in data that others might miss. Montreal is home, but my playground is the world of numbers and insights 🚀</p>
-
-###
+---
 
 <h2 align="left">About me</h2>
 
-###
+<p align="left">
+  I work at the intersection of data engineering and consumer insights — building the pipelines, then actually using them to answer research questions.<br><br>
+  At OMG Montreal, I design and maintain media analytics pipelines (BigQuery, Dataform, Looker Studio) and lead consumer research studies using survey data, R, and Displayr.<br><br>
+  🎓 Master of Management in Analytics · McGill University<br>
+  📍 Montreal, QC · Bilingual (FR/EN)<br>
+  🌱 Currently exploring: AWS, advanced ML techniques, and data storytelling<br>
+  🎹 10 years of piano · 🏃‍♀️ 10K runner · 🐠 swimmer
+</p>
 
-<p align="left">✨ Creating insights since I discovered the beauty of turning data into stories<br><br>📚 Currently learning advanced machine learning techniques, AWS tools, and how to make visualizations that pop 🎨<br><br>🎯 Goals: To become a business analyst and data scientist who bridges the gap between data and impactful decisions<br><br>🎲 Fun fact: I’ve completed 10 years of piano 🎹, love running 10Ks 🏃‍♀️, and can swim like a fish 🐠</p>
+---
 
-###
+<h2 align="left">What I work with</h2>
 
-<h2 align="left">I code with</h2>
-
-###
-
+<h4 align="left">Data Engineering & Cloud</h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" />
 </div>
 
-###
+<h4 align="left">Analytics & Research</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+</div>
 
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julianahubacova&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julianahubacova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
- </div>
+<h4 align="left">Tools & IDEs</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
+</div>
 
-###
+---
 
-<h2 align="left">Contact me</h2>
+<h2 align="left">Projects</h2>
 
-###
+<p align="left">
+  My professional work involves client-confidential media analytics and consumer research pipelines — those can't be shared publicly.<br><br>
+  The repos here are from my graduate studies at McGill (MMA program), covering topics in analytics, ML, and data analysis.<br><br>
+  Personal and portfolio projects are in progress — check back soon.
+</p>
+
+---
+
+<h2 align="left">Contact</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/juliana-hubacova" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:juliana.hubacova@mail.mcgill.ca">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="40" alt="microsoft-outlook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="40" alt="Email" />
   </a>
 </div>
-
-###
