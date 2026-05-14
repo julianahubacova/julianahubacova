@@ -1,7 +1,7 @@
 <h1 align="left">Juliana Hubacova</h1>
 
 <p align="left">
-  Data Engineer & Research Analyst at OMG Montreal · McGill MMA · Based in Montreal 🇨🇦
+  Research Analyst at OMG Montreal · Background in Data Engineering · McGill MMA · Montreal 🇨🇦
 </p>
 
 ---
@@ -9,8 +9,8 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  I work at the intersection of data engineering and consumer insights — building the pipelines, then actually using them to answer research questions.<br><br>
-  At OMG Montreal, I design and maintain media analytics pipelines (BigQuery, Dataform, Looker Studio) and lead consumer research studies using survey data, R, and Displayr.<br><br>
+  I'm a research analyst with a data engineering background — which means I understand not just what the data says, but how it was built, where it breaks, and how to make it reliable.<br><br>
+  At OMG Montreal, I work in the Consumer Insights team on survey-based research studies, while drawing on my experience building media analytics pipelines in BigQuery, Dataform, and Looker Studio.<br><br>
   🎓 Master of Management in Analytics · McGill University<br>
   📍 Montreal, QC · Bilingual (FR/EN)<br>
   🌱 Currently exploring: AWS, advanced ML techniques, and data storytelling<br>
