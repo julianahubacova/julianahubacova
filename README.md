@@ -1,6 +1,7 @@
 <h1>Juliana Hubacova</h1>
 <p>
   Research Analyst · McGill MMA · Montréal 🇨🇦
+  **[Personal website](https://julianahubacova.github.io/)**
 </p>
 
 ## About
