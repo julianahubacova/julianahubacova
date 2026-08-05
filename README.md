@@ -1,76 +1,76 @@
-<h1 align="left">Juliana Hubacova</h1>
-
-<p align="left">
-  Research Analyst at OMG Montreal · Background in Data Engineering · McGill MMA · Montreal 🇨🇦
+<h1>Juliana Hubacova</h1>
+<p>
+  Research Analyst · McGill MMA · Montréal 🇨🇦
 </p>
 
----
+## About
 
-<h2 align="left">About me</h2>
+I'm a data person who likes problems with a clean answer hiding behind messy inputs. Lately that pulls me toward machine learning, and toward getting models out of a notebook and onto the web where someone can actually use them.
 
-<p align="left">
-  I'm a research analyst with a data engineering background — which means I understand not just what the data says, but how it was built, where it breaks, and how to make it reliable.<br><br>
-  At OMG Montreal, I work in the Consumer Insights team on survey-based research studies, while drawing on my experience building media analytics pipelines in BigQuery, Dataform, and Looker Studio.<br><br>
-  🎓 Master of Management in Analytics · McGill University<br>
-  📍 Montreal, QC · Bilingual (FR/EN)<br>
-  🌱 Currently exploring: AWS, advanced ML techniques, and data storytelling<br>
-  🎹 10 years of piano · 🏃‍♀️ 10K runner · 🐠 swimmer
-</p>
+Away from the screen: 10 years of piano, 10K runs, and laps in the pool. I also spend more time than I'll admit reading about the Canadian investing landscape and tinkering with my TFSA.
 
----
+The projects below are where I chase those interests: credit-risk modelling, data quality, and a probability puzzle I built because I couldn't stop thinking about it.
 
-<h2 align="left">What I work with</h2>
+- 🎓 Master of Management in Analytics, McGill
+- 📍 Montréal · bilingual FR / EN
+- 🌱 Now learning: model deployment (FastAPI, Docker), RAG systems, AWS
+- 🎹 Piano · 🏃‍♀️ running · 🐠 swimming
 
-<h4 align="left">Data Engineering & Cloud</h4>
-<div align="left">
+## What I work with
+
+**Data Engineering & Cloud**
+
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
 
-<h4 align="left">Analytics & Research</h4>
-<div align="left">
+**Analytics & Research**
+
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
 </div>
 
-<h4 align="left">Tools & IDEs</h4>
-<div align="left">
+**Tools & IDEs**
+
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
----
+## Featured projects
 
-<h2 align="left">Projects</h2>
+**[SBA Loan Default Prediction](https://github.com/julianahubacova/REPO)**
+A credit-risk model that separates likely defaulters from safe borrowers, scoring 0.98 ROC-AUC on a public SBA lending dataset. I paired it with SHAP explanations so each score comes with a reason a loan officer could act on, not just a number. Now wrapping it in a FastAPI service so it can be queried live.
+`Python` · `scikit-learn` · `SHAP` · `FastAPI` · `Docker`
 
-<p align="left">
-  My professional work involves client-confidential media analytics and consumer research pipelines — those can't be shared publicly.<br><br>
-  The repos here are from my graduate studies at McGill (MMA program), covering topics in analytics, ML, and data analysis.<br><br>
-  Personal and portfolio projects are in progress — check back soon.
-</p>
+**[SMB Loan Data Quality Pipeline](https://github.com/julianahubacova/smb-loan-quality-pipeline)**
+A Bronze/Silver/Gold pipeline that runs 10 automated quality checks and logs every failure to a Delta table. The point: bad data gets caught before it reaches a dashboard, not after someone has already made a call on it. Results surface in Power BI.
+`Databricks` · `Delta Lake` · `Power BI`
 
----
+**[Birthday Paradox](https://github.com/julianahubacova/birthday-paradox)**
+A small interactive take on a classic puzzle: how many party guests before two share a birthday? It checks the textbook formula against a Monte Carlo simulation, and the two agree. Built as a single dependency-free page. [Live demo](https://julianahubacova.github.io/birthday-paradox/)
+`JavaScript` · `SVG` · `Monte Carlo`
 
-<h2 align="left">Contact</h2>
+## Contact
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/juliana-hubacova" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:juliana.hubacova@mail.mcgill.ca">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="40" alt="Email" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/juliana-hubacova" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
+</a>
+<a href="mailto:juliana.hubacova@yahoo.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="40" alt="Email" />
+</a>
